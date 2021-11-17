@@ -43,7 +43,7 @@ def TokenLogin(token):
         driver.execute_script(script+f'\nlogin("{token}")')
         Solutions.main()
     except Exception as e:
-        print(f"{Fore.RED}Sorry Solutions had trouble logging into the account\nContact rdimo#6969 if this keeps happening")
+        print(f"{Fore.RED}Sorry Solutions had trouble logging ")
         print(f"Ignoring error: {e}")
         sleep(5)
         Solutions.main()

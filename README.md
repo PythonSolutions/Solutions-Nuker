@@ -15,4 +15,5 @@
 * ` Mass report`
 * ` GroupChat Spammer`
 * ` Webhook destroyer`
-
+# Screenshot
+<p align="left"><img src="https://i.imgur.com/0FKseLq.png"</p>
